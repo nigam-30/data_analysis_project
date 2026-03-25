@@ -1,0 +1,4 @@
+Segment,CustomerCount,AvgChurnProb,AvgMonthlyCharge,AvgTenure,AvgComplaints,ActualChurnRate
+At Risk,1870,0.6872,71.7683,16.369,1.9711,0.8893
+Dormant,1992,0.3269,69.7331,20.8469,1.4623,0.1205
+Loyal,1138,0.129,66.612,35.9007,0.826,0.0114
